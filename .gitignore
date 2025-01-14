@@ -1,0 +1,5 @@
+*.txt
+!hello.txt
+ignored/hy.js
+ignored/*
+!hello.js
